@@ -13,7 +13,7 @@ def plot_dashboard(df: pd.DataFrame, ticker: str):
     6. 20d vol with anomaly markers
     """
     fig, axes = plt.subplots(3, 2, figsize=(16, 12))
-    fig.suptitle(f"{ticker} – Market Volatility Dashboard", fontsize=16)
+    fig.suptitle(f"{ticker} – Market Volatility Analysis Dashboard", fontsize=16)
 
     # --- Chart 1: Price + 20d Volatility ---
     ax = axes[0, 0]

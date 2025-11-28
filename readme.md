@@ -1,6 +1,6 @@
 ![Volatility Dashboard](images/dashboard.png)
 
-# Market Volatility Dashboard
+# Market Volatility Analysis Dashboard
 
 An interactive Python tool that lets you type in a stock ticker (e.g. `AAPL`, `NVDA`) and get a **one-page dashboard** showing:
 
