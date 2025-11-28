@@ -23,7 +23,7 @@ All of this runs locally from the terminal using Python and `matplotlib`.
 4. It applies simple machine-learning models to:
    - group days into **volatility regimes**, and  
    - detect **abnormal volatility days**.
-5. It plots everything in a **3×2 dashboard** in a single window.
+5. It plots everything in a **3×3 dashboard** in a single window.
 
 ---
 
