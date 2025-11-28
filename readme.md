@@ -2,7 +2,7 @@
 
 # Market Volatility Analysis Dashboard
 
-An interactive Python tool that lets you type in a stock ticker (e.g. `AAPL`, `NVDA`) and get a **one-page dashboard** showing:
+This interactive Python tool lets you enter any stock ticker (e.g., AAPL, NVDA) and automatically generates a one-page market volatility dashboard using historical price data. It computes daily returns, rolling volatility across multiple windows, and volume-based metrics, and applies K-Means clustering and Isolation Forest to classify volatility regimes and detect statistically unusual days. The system combines financial feature engineering with lightweight machine-learning models to produce an interpretable snapshot of a stock’s historical risk behavior.
 
 - Price vs. volatility over time  
 - Short / medium / long-term volatility  
