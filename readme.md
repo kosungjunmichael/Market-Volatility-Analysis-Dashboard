@@ -15,7 +15,7 @@ All of this runs locally from the terminal using Python and `matplotlib`.
 
 ---
 
-## 🔧 What This Project Does
+## What This Project Does
 
 1. You enter a stock ticker in the terminal.
 2. The program downloads historical price data.
@@ -27,9 +27,9 @@ All of this runs locally from the terminal using Python and `matplotlib`.
 
 ---
 
-## 📦 Requirements
+## Requirements
 
-- Python 3.9+ (3.10/3.11 also fine)
+- Python 3.8+
 - `pip` (Python package manager)
 
 Python libraries used:
@@ -44,7 +44,7 @@ They’re all listed in `requirements.txt`.
 
 ---
 
-## 🚀 Installation
+## Installation
 
 From the project root:
 
